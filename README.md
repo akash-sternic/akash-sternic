@@ -1,19 +1,19 @@
-# 👋 Hi, we're locatr-ai
+# 📍 locatr-ai
  
-💻 **Full-Stack .NET Development | AI-Driven Development**  
-🚀 Building scalable applications and integrating AI into modern workflows
+💻 **Location Intelligence & Geospatial AI**  
+🚀 Building AI-powered platforms that turn location data into actionable intelligence
  
 ---
  
 ## 🚀 About Us
  
-- 🔭 Currently building **scalable applications using .NET Core & Angular**
-- ⚡ Passionate about performance tuning, SQL query optimization
-- 🤖 Exploring **AI integrations** with Copilot & Claude
-- 👯 Open to collaborating on **enterprise-level full-stack projects**
-- 🤝 Interested in **AI-powered backend systems & MCP servers**
-- 🌱 Continuously learning **AI-driven development**
-- ⚡ Love optimizing performance & automating workflows
+- 🌍 Building a **location intelligence / geospatial AI platform**
+- 🔭 Engineering scalable backend and frontend systems using **.NET Core & Angular**
+- 🤖 Integrating **AI into geospatial data pipelines** and product workflows
+- ⚡ Focused on performance tuning and efficient **spatial query optimization**
+- 🤝 Exploring **AI-powered backend systems & MCP servers**
+- 👯 Open to collaborating on **enterprise-level geospatial & AI projects**
+- 🌱 Continuously investing in **AI-driven development practices**
 ---
  
 ## 🛠️ Tech Stack
@@ -46,11 +46,11 @@
 ## 🤖 AI & Modern Development
  
 - 🤖 AI-assisted coding with **GitHub Copilot & Claude**
-- 🧠 Exploring **AI-powered development workflows**
+- 🧠 Applying **AI-powered workflows** to location data and backend systems
 - 🔗 Interested in **Automation, MCP Servers, and Intelligent Systems**
 ---
  
 ## 💡 Highlight
  
-✨ *"We build smart, scalable, and efficient solutions by combining clean code with modern AI tools."*
+✨ *"We turn location data into intelligent, scalable solutions by combining clean engineering with modern AI tools."*
  
