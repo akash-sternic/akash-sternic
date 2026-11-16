@@ -50,46 +50,6 @@
 - 🔗 Interested in **Automation, MCP Servers, and Intelligent Systems**
 ---
  
-## 📊 GitHub Analytics
- 
-### 📈 GitHub Stats (Includes Private Contributions)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=locatr-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=locatr-ai&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-</p>
----
- 
-### 📊 Technology Usage Across Repositories
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=locatr-ai&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=locatr-ai&theme=tokyonight" />
-</p>
----
- 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=locatr-ai&theme=tokyonight&hide_border=true" />
-</p>
----
- 
-### 📉 Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=locatr-ai&theme=tokyo-night&hide_border=true&area=true" />
-</p>
----
- 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=locatr-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
----
- 
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=locatr-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
----
- 
 ## 💡 Highlight
  
 ✨ *"We build smart, scalable, and efficient solutions by combining clean code with modern AI tools."*
