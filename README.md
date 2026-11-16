@@ -8,7 +8,7 @@
 ## 🚀 About Us
  
 - 🌍 Building a **location intelligence / geospatial AI platform**
-- 🔭 Engineering scalable backend and frontend systems using **.NET Core & Angular**
+- 🔭 Engineering scalable backend and frontend systems
 - 🤖 Integrating **AI into geospatial data pipelines** and product workflows
 - ⚡ Focused on performance tuning and efficient **spatial query optimization**
 - 🤝 Exploring **AI-powered backend systems & MCP servers**
